@@ -41,3 +41,5 @@ d)音乐播放功能，会多增加几首音乐并实现可选项
 
 logs.forEach is not a function;at "pages/logs/logs" page lifeCycleMethod onShow function
 TypeError: logs.forEach is not a function
+
+
