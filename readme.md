@@ -1,4 +1,5 @@
 “番茄钟”介绍:
+
 番茄钟，是根据一个瑞典人所写的番茄工作法理论进行开发的一款方便、实用的日程管理软件。
 指的是把工作任务分解成半小时左右，集中精力工作25分钟后休息5分钟，如此视作种一个“番茄”，而“番茄工作法”的流程能使下一个30分钟更有动力。
 
@@ -24,3 +25,5 @@ d)音乐播放功能，会多增加几首音乐并实现可选项
 
 5)发现的bug
 测试结果：无法显示已经完成的记录
+logs.forEach is not a function;at "pages/logs/logs" page lifeCycleMethod onShow function
+TypeError: logs.forEach is not a function
